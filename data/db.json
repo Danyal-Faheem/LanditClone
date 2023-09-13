@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@arbisoft.com",
+      "password": "Qwerty123$"
+    },
+    {
+      "id": 1,
+      "email": "john@arbisoft.com",
+      "password": "Qwerty123$"
+    }
+  ]
+}
